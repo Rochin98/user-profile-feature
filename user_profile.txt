@@ -1,1 +1,1 @@
-User Profile implementation.
+Bug fixed in user profile feature.
